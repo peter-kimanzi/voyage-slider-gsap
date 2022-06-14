@@ -12,7 +12,7 @@ voyage slider using gsap library
 
 ## View live site
 
-https://peter-kimanzi.github.io/Netflix-intro-animation/
+https://peter-kimanzi.github.io/voyage-slider-gsap/
 
 
 ## Screenshots
