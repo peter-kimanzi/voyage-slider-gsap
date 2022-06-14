@@ -7,6 +7,7 @@ voyage slider using gsap library
 
 * HTML
 * CSS
+* JavaScript
 * Gsap
 
 ## View live site
