@@ -3,8 +3,6 @@
 voyage slider using gsap library
 
 
-Netflix intro animation pure css
-
 ## Technologies used
 
 * HTML
