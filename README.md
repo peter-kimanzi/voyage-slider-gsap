@@ -2,7 +2,6 @@
 
 voyage slider using gsap library
 
-# Netflix-intro-animation
 
 Netflix intro animation pure css
 
